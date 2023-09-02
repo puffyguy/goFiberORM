@@ -1,10 +1,8 @@
 # Go Book Service
 
-```
-The Go Book Service is a RESTful API for managing books. It is built using the Go programming language, the Fiber web framework, and supports both MongoDB and MySQL databases. This service allows you to perform various operations related to books, such as adding, updating, deleting, and retrieving book information.
-```
+> The Go Book Service is a RESTful API for managing books. It is built using the Go programming language, the Fiber web framework, and supports both MongoDB and MySQL databases. This service allows you to perform various operations related to books, such as adding, updating, deleting, and retrieving book information.
 
-# Endpoints
+## Endpoints
 
 ### /api/v1/books
 
